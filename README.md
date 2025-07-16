@@ -19,6 +19,7 @@ With rapid technological change influencing communication patterns, there is a p
 
 
 **We are Looking for Volunteers!**
+
 To make this project a success, we are actively seeking volunteers to support us in various ways. 
 
 Your contribution can take many forms—whether it's helping with dataset creation (text, documents, or speech), language documentation, community outreach, or any other area where you can lend a hand.
