@@ -16,3 +16,13 @@ With rapid technological change influencing communication patterns, there is a p
 
 
 ![Language](assests/Language_Response.png?raw=true)
+
+
+**We are Looking for Volunteers!**
+To make this project a success, we are actively seeking volunteers to support us in various ways. 
+
+Your contribution can take many forms—whether it's helping with dataset creation (text, documents, or speech), language documentation, community outreach, or any other area where you can lend a hand.
+
+If you're interested in contributing, please fill out the [volunteer form](https://forms.gle/sA2psTNiYFomPa7Z8) and share your contact details. Our team will get in touch with you shortly.
+
+Together, we can help preserve and promote the rich linguistic diversity of Manipur.
