@@ -2,7 +2,7 @@
 
 As part of our initiative to understand language development and bridge gaps among lesser-spoken languages, we are conducting a focused survey in the state of Manipur, India.
 
-Manipur is home to a diverse range of ethnic tribes and communities, including the Meitei, Naga, Kuki-Zo groups, and smaller tribes such as the Tarao—totaling around 33 distinct ethnic tribes and communities. Across these groups, approximately 29 different tribal languages and dialects are spoken, reflecting the region’s rich linguistic heritage.
+Manipur is home to a diverse range of ethnic tribes and communities totaling around 33 distinct ethnic tribes and communities. Across these groups, approximately 29 different languages and dialects are spoken, reflecting the region’s rich linguistic heritage.
 
 Among these, the [Tarao tribe](https://www.youtube.com/watch?v=7yfHHhoyaEo) stands out due to its critically endangered language and culture. This highlights the urgent need to document and support such vulnerable languages.
 
