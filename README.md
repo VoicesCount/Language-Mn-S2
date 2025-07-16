@@ -6,7 +6,7 @@ Manipur is home to a diverse range of ethnic tribes and communities totaling aro
 
 Among these, the [Tarao tribe](https://www.youtube.com/watch?v=7yfHHhoyaEo) stands out due to its critically endangered language and culture. This highlights the urgent need to document and support such vulnerable languages.
 
-While the project will prioritize the top three languages identified through the survey, special emphasis will also be placed on supporting other lesser-spoken and endangered languages to ensure their preservation and continued vitality.
+Based on the findings, we will prioritize the development and support of the languages covered in the survey to ensure their preservation and continued vitality.
 
 With rapid technological change influencing communication patterns, there is a pressing need to understand, preserve, and promote these underrepresented languages. Through this survey, we aim to gather insights on language use, preservation, and evolution throughout Manipur.
 
